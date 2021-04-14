@@ -1,0 +1,11 @@
+com\trading\app\rest\TradeProcessorController.class
+com\trading\app\service\KafkaTemplateImpl.class
+com\trading\app\model\TradeMessage$IdSource.class
+com\trading\app\TradeProcessorApplication.class
+com\trading\app\ParseFIXMessage.class
+com\trading\app\model\Message.class
+com\trading\app\model\SecurityId.class
+com\trading\app\model\TradeMessage.class
+com\trading\app\ws\Websocket.class
+com\trading\app\service\TradeProcessor.class
+com\trading\app\service\KafkaTemplate.class

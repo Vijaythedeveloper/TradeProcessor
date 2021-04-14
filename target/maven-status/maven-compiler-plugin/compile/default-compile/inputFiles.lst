@@ -1,0 +1,10 @@
+C:\Work\Java\TradeProcessor\src\main\java\com\trading\app\TradeProcessorApplication.java
+C:\Work\Java\TradeProcessor\src\main\java\com\trading\app\model\TradeMessage.java
+C:\Work\Java\TradeProcessor\src\main\java\com\trading\app\rest\TradeProcessorController.java
+C:\Work\Java\TradeProcessor\src\main\java\com\trading\app\ParseFIXMessage.java
+C:\Work\Java\TradeProcessor\src\main\java\com\trading\app\ws\Websocket.java
+C:\Work\Java\TradeProcessor\src\main\java\com\trading\app\model\SecurityId.java
+C:\Work\Java\TradeProcessor\src\main\java\com\trading\app\service\KafkaTemplateImpl.java
+C:\Work\Java\TradeProcessor\src\main\java\com\trading\app\service\TradeProcessor.java
+C:\Work\Java\TradeProcessor\src\main\java\com\trading\app\service\KafkaTemplate.java
+C:\Work\Java\TradeProcessor\src\main\java\com\trading\app\model\Message.java
